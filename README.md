@@ -1,2 +1,4 @@
 # firstrep
-print("Hello, World");
+print("Hello, World)
+printf("I am awesome");
+; 
